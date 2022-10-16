@@ -1,0 +1,24 @@
+body{
+    margin: 250px;
+}
+
+#title{
+    font-family: 'Leckerli One', cursive;
+    font-size: 30px;
+}
+
+#heading1{
+    font-family: 'Leckerli One', cursive;
+}
+
+.ingredients{
+    font-family: 'Open Sans', sans-serif;
+}
+
+#heading2{
+    font-family: 'Leckerli One', cursive;
+}
+
+.directions{
+    font-family: 'Open Sans', sans-serif;
+}
